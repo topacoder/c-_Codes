@@ -1,0 +1,2 @@
+Hello there Keep working on file handling
+The variable inpute is 234

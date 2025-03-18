@@ -1,0 +1,6 @@
+Data was readed from "readFile.txt"
+Data was readed from "readFile.txt"
+Data was readed from "readFile.txt"
+Data was readed from "readFile.txt"
+Data was readed from "readFile.txt"
+Data was readed from "readFile.txt"
